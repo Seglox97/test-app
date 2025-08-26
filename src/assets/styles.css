@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Simple fade animation helpers */
+.page-fade-enter-active, .page-fade-leave-active { transition: opacity 200ms ease; }
+.page-fade-enter-from, .page-fade-leave-to { opacity: 0; }
