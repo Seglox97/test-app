@@ -23,7 +23,7 @@
     <div class="md:col-span-3 flex items-center gap-2 justify-end">
       <button @click="apply"
         class="px-4 py-2 rounded-xl bg-slate-900 text-white hover:bg-slate-800 active:scale-[0.99]">
-        Aplicar filtros
+        Buscar
       </button>
       <button @click="reset"
         class="px-4 py-2 rounded-xl border border-slate-300 hover:bg-slate-100">
